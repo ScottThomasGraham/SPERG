@@ -1,0 +1,6 @@
+# Build output
+SPERG.app/
+*.dSYM/
+
+# macOS
+.DS_Store
