@@ -11,3 +11,13 @@ Nyx is Scott's AI teammate — named for the Greek goddess of the night.
 Nyx lives on **Neo** (Scott's MacBook) and works through Discord: each channel is a repo, each thread is a conversation with her running real Claude Code on the Max plan — read, write, run, ship, full-auto.
 
 > *"I am the night you build your future in."* — Nyx
+
+---
+<!-- nyx-kb:start -->
+
+## 🔗 Related
+- 🗺️ Domain: [[_Knowledge/🌐 Web & Digital Business|🌐 Web & Digital Business]]
+- 🏠 Project hub: [[SPERG/README|SPERG]]
+- 🔗 Related: [[graham-digital-media-v2/Nyx|Nyx 🌙]] · [[GrahamDigitalMedia/Nyx|Nyx 🌙]] · [[Personal-Website/Nyx|Nyx 🌙]]
+
+<!-- nyx-kb:end -->

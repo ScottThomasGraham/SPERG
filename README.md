@@ -40,3 +40,12 @@ around, drag `SPERG.app` into `/Applications`.
 ## License
 
 MIT
+
+---
+<!-- nyx-kb:start -->
+
+## 🔗 Related
+- 🗺️ Domain: [[_Knowledge/🌐 Web & Digital Business|🌐 Web & Digital Business]]
+- 🔗 Related: [[SPERG/Nyx|Nyx 🌙]] · [[Freelancer/clients/finish-explain-python/deliverables/EXPLANATION|How the code works — line by line]] · [[Freelancer/clients/stats-spreadsheet-tool/deliverables/README|Statistical Analysis Spreadsheet Tool]]
+
+<!-- nyx-kb:end -->
